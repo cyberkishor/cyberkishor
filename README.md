@@ -2,14 +2,8 @@
   <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" width="100"/>
 
   <div id="badges" >
-    <a href="https://www.linkedin.com/in/sa-bin-sth/">
+    <a href="https://www.linkedin.com/in/kishrorkumar/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.youtube.com/channel/UCMHiLMj61pOE-cixftZjNrQ">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="https://twitter.com/sa_bin_sth">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=cyberkishor&style=flat-square&color=blue" alt=""/>
@@ -23,15 +17,15 @@
 
 ### :man_technologist: About Me  
 
-- 👋 Hello! I’m **Kishor** (@cyberkishor), a passionate **Full Stack Developer** and technology enthusiast with a knack for building efficient, scalable, and maintainable applications. I thrive at the intersection of creativity and logic, solving complex problems with clean code and modern development practices.  
+👋 Hello! I’m **Kishor** (@cyberkishor), a passionate **Full Stack Developer** and technology enthusiast with a knack for building efficient, scalable, and maintainable applications. I thrive at the intersection of creativity and logic, solving complex problems with clean code and modern development practices.  
 
-- 🐍 I am a **Python ninja**, with deep experience in backend development, data processing, and API design. Over the years, I’ve honed my skills in **PHP and Laravel**, building robust web applications, and I’m a **WordPress and Shopify expert**, delivering powerful CMS and e-commerce solutions tailored to client needs.  
+🐍 I am a **Python ninja**, with deep experience in backend development, data processing, and API design. Over the years, I’ve honed my skills in **PHP and Laravel**, building robust web applications, and I’m a **WordPress and Shopify expert**, delivering powerful CMS and e-commerce solutions tailored to client needs.  
 
-- ⚡ On the frontend, I enjoy working with **Next.js, React, and modern JavaScript frameworks**, creating interactive, user-friendly, and high-performance web applications. I am also proficient with database systems such as **MySQL, PostgreSQL, and MongoDB**, ensuring smooth data management for any scale of project.  
+⚡ On the frontend, I enjoy working with **Next.js, React, and modern JavaScript frameworks**, creating interactive, user-friendly, and high-performance web applications. I am also proficient with database systems such as **MySQL, PostgreSQL, and MongoDB**, ensuring smooth data management for any scale of project.  
 
-- 🛠️ I continuously explore new technologies, frameworks, and tools to stay ahead in the ever-evolving tech landscape. My passion extends to **cloud platforms like AWS**, UI frameworks like **TailwindCSS**, and building full-stack applications that are robust, performant, and secure.  
+🛠️ I continuously explore new technologies, frameworks, and tools to stay ahead in the ever-evolving tech landscape. My passion extends to **cloud platforms like AWS**, UI frameworks like **TailwindCSS**, and building full-stack applications that are robust, performant, and secure.  
 
-- 💞️ I’m always open to **collaborations on exciting projects**, whether it’s developing e-commerce platforms, SaaS applications, CMS solutions, or experimental side projects. I love connecting with other developers, sharing knowledge, and learning from the community.  
+💞️ I’m always open to **collaborations on exciting projects**, whether it’s developing e-commerce platforms, SaaS applications, CMS solutions, or experimental side projects. I love connecting with other developers, sharing knowledge, and learning from the community.  
 
 📫 You can reach me via **Email: cyberkishor@gmail.com**, or connect with me on **LinkedIn, Twitter, or GitHub** for collaborations, discussions, or opportunities.  
 
@@ -58,15 +52,15 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" height="40" width="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Git" alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-plain.svg/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" title="WooCommerce" alt="WooCommerce" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-plain.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>
     
   
 </p>
